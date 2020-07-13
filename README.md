@@ -1,4 +1,7 @@
-### Hi there 👋
+### Some info:
+
+- You can always find out what I'm doing from my [free newsletter](https://kenkousen.substack.com)
+- My [blog](https://kousenit.org) contains posts from my work using Java, Groovy, Kotlin, and more
 
 <!--
 **kousen/kousen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
