@@ -11,11 +11,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solving the Daily Jumble](https://kousenit.org/2020/07/08/solving-the-daily-jumble/)
-- [Are you positive you tested positive?](https://kousenit.org/2020/05/13/are-you-positive-you-tested-positive/)
-- [Why Use Mocks?](https://kousenit.org/2020/03/03/why-use-mocks/)
-- [Antarctica Time Zones in Kotlin on GraalVM](https://kousenit.org/2020/01/04/antarctica-time-zones-in-kotlin-on-graalvm/)
-- [A Few Astronomical Examples in Kotlin](https://kousenit.org/2019/12/19/a-few-astronomical-examples-in-kotlin/)
+- [Tales from the jar side: The Two Messages to give your boss, Kotlin + Spring, and Way Too Many Seal Jokes](https://kenkousen.substack.com/p/tales-from-the-jar-side-the-two-messages)
+- [Tales from the jar side: PBKAC, courses taught, the Challenger documentary, and in-groups vs out-groups](https://kenkousen.substack.com/p/tales-from-the-jar-side-pbkac-courses)
+- [Tales from the jar side: Gradle task avoidance, a Null Pointers video, and GitHub tools](https://kenkousen.substack.com/p/tales-from-the-jar-side-gradle-task)
+- [Tales from the jar side: Electronic archeology, living "in between", and other topics](https://kenkousen.substack.com/p/tales-from-the-jar-side-electronic)
+- [Tales from the jar side: Constructive loyalty, a Groovy user group talk, and the awesome #GIDS conference](https://kenkousen.substack.com/p/tales-from-the-jar-side-constructive)
 <!-- BLOG-POST-LIST:END -->
 
 ### Some info:
