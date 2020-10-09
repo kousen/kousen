@@ -1,5 +1,11 @@
 ## Ken Kousen
-[@kenkousen](https://twitter.com/kenkousen)
+
+My books:
+
+- [Kotlin Cookbook](https://www.amazon.com/Kotlin-Cookbook-Problem-Focused-Ken-Kousen/dp/1492046671/ref=sr_1_2?crid=19GC9U7J3BCF6&dchild=1&keywords=ken+kousen&qid=1602270598&sprefix=kousen+%2Caps%2C152&sr=8-2)
+- [Modern Java Recipes](https://www.amazon.com/Modern-Java-Recipes-Solutions-Difficult/dp/149197317X/ref=sr_1_1?crid=19GC9U7J3BCF6&dchild=1&keywords=ken+kousen&qid=1602270598&sprefix=kousen+%2Caps%2C152&sr=8-1)
+- [Gradle Recipes for Android](https://www.amazon.com/Gradle-Recipes-Android-Master-System/dp/1491947020/ref=sr_1_3?crid=19GC9U7J3BCF6&dchild=1&keywords=ken+kousen&qid=1602270598&sprefix=kousen+%2Caps%2C152&sr=8-3)
+- [Making Java Groovy](https://www.amazon.com/Making-Java-Groovy-Ken-Kousen/dp/1935182943/ref=sr_1_1?dchild=1&keywords=ken+kousen+making+java+groovy&qid=1602270937&sr=8-1)
 
 FYI, my last name is pronounced as though it was spelled "cousin," like the relative. Go figure.
 
