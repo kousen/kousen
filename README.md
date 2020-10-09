@@ -7,6 +7,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: The Two Messages to give your boss, Kotlin + Spring, and Way Too Many Seal Jokes](https://kenkousen.substack.com/p/tales-from-the-jar-side-the-two-messages)
+- [Tales from the jar side: PBKAC, courses taught, the Challenger documentary, and in-groups vs out-groups](https://kenkousen.substack.com/p/tales-from-the-jar-side-pbkac-courses)
+- [Tales from the jar side: Gradle task avoidance, a Null Pointers video, and GitHub tools](https://kenkousen.substack.com/p/tales-from-the-jar-side-gradle-task)
+- [Tales from the jar side: Electronic archeology, living "in between", and other topics](https://kenkousen.substack.com/p/tales-from-the-jar-side-electronic)
+- [Tales from the jar side: Constructive loyalty, a Groovy user group talk, and the awesome #GIDS conference](https://kenkousen.substack.com/p/tales-from-the-jar-side-constructive)
 <!-- NEWSLETTERS:END -->
 
 ## Blog posts
