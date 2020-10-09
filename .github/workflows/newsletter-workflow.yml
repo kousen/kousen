@@ -1,4 +1,4 @@
-name: Newsletter workflow
+name: Latest newsletters workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -11,4 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "NEWSLETTERS"
           feed_list: "https://kenkousen.substack.com/feed/"
