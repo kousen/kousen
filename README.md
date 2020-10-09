@@ -23,7 +23,7 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 - [A Few Astronomical Examples in Kotlin](https://kousenit.org/2019/12/19/a-few-astronomical-examples-in-kotlin/)
 <!-- BLOG-POST-LIST:END -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kousen)](https://github.com/kousen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kousen&hide=javascript)](https://github.com/kousen/github-readme-stats)
 
 ### Some info:
 
