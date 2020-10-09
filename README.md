@@ -9,7 +9,7 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 <!-- NEWSLETTERS:START -->
 <!-- NEWSLETTERS:END -->
 
-## Blog posts
+## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Solving the Daily Jumble](https://kousenit.org/2020/07/08/solving-the-daily-jumble/)
 - [Are you positive you tested positive?](https://kousenit.org/2020/05/13/are-you-positive-you-tested-positive/)
@@ -17,6 +17,8 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 - [Antarctica Time Zones in Kotlin on GraalVM](https://kousenit.org/2020/01/04/antarctica-time-zones-in-kotlin-on-graalvm/)
 - [A Few Astronomical Examples in Kotlin](https://kousenit.org/2019/12/19/a-few-astronomical-examples-in-kotlin/)
 <!-- BLOG-POST-LIST:END -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kousen)](https://github.com/kousen/github-readme-stats)
 
 ### Some info:
 
