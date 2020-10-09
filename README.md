@@ -5,6 +5,10 @@ FYI, my last name is pronounced as though it was spelled "cousin," like the rela
 
 My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kousen Eye-Tee", but my wife calls it "Kousen IT" like it was from the Addams Family :)
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Some info:
 
 - You can always find out what I'm doing from my [free newsletter](https://kenkousen.substack.com)
