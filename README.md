@@ -13,11 +13,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Gradle, Spring, Why I can't let go of Android, and Amusing tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-gradle-spring)
 - [Tales from the jar side: Kotlin Cookbook in Russian, A few chess comments, and Twitter Memes](https://kenkousen.substack.com/p/tales-from-the-jar-side-kotlin-cookbook-2e1)
 - [Tales from the jar side: A busy week of training, conference talks, writing, and a little election you might have heard about](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-busy-week)
 - [Tales from the jar side: GIDS Java, Fun with Phones, and Video Royalties](https://kenkousen.substack.com/p/tales-from-the-jar-side-gids-java)
 - [Tales from the jar side: Teaching Experts, Being Treated Unfairly, and Fictional Jobs](https://kenkousen.substack.com/p/tales-from-the-jar-side-teaching)
-- [Tales from the jar side: Dealing with stress, Learning Kotlin coroutines, and Remotely managing your manager](https://kenkousen.substack.com/p/tales-from-the-jar-side-dealing-with)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
