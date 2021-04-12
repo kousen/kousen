@@ -13,11 +13,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Java 11 v 16, Oracle v Google, and a Taste of the After Times](https://kenkousen.substack.com/p/tales-from-the-jar-side-java-11-v)
 - [Tales from the jar side: Admitting You Don't Know Something, Kotlin Ki, and Funny Tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-admitting)
 - [Tales from the jar side: Trust the Java compiler, When trust on the job breaks down, and the Suez (Root) Canal](https://kenkousen.substack.com/p/tales-from-the-jar-side-trust-the)
 - [Tales from the jar side: My book in Beta, Substack woes, and Charl](https://kenkousen.substack.com/p/tales-from-the-jar-side-my-book-in)
 - [Tales from the jar side: Java 16, Book excerpt, and Entertaining tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-java-16-book)
-- [Tales from the jar side: Java Faker, Help Your Boss Help You, What is X but Y persevering, and the Complete Text (seriously) of What's Opera, Doc?](https://kenkousen.substack.com/p/tales-from-the-jar-side-java-faker)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
