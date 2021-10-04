@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Kotlin serialization, Spring Data relationships, A movie filmed in my town, and many bad jokes](https://kenkousen.substack.com/p/tales-from-the-jar-side-kotlin-serialization)
 - [Tales from the jar side: Making Java Groovy: Middle English Edition (!?), Podcasts, articles, and conferences, oh my](https://kenkousen.substack.com/p/tales-from-the-jar-side-making-java)
 - [Tales from the jar side: Older employees and younger managers, Advice McNuggets, Upcoming conferences, and funny tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-older-employees)
 - [Tales from the jar side: Spring Data JPA, NFJS is back, The temptation to go meta, Another chess adventure, and good tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-spring-data)
 - [Tales from the jar side: I miss Grails, An upcoming GOTO podcast, and ABBA is back](https://kenkousen.substack.com/p/tales-from-the-jar-side-i-miss-grails)
-- [Tales from the jar side: MongoDB and Docker, Two Messages for your manager, and New Release No More](https://kenkousen.substack.com/p/tales-from-the-jar-side-mongodb-and)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
