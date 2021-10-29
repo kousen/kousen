@@ -23,11 +23,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Groovy Podcast, S05E03, with Paul King](https://kousenit.org/2021/10/29/groovy-podcast-s05e03-with-paul-king/)
 - [Simple Demo of Gradle Parallel Tests](https://kousenit.org/2020/11/22/simple-demo-of-gradle-parallel-tests/)
 - [Solving the Daily Jumble](https://kousenit.org/2020/07/08/solving-the-daily-jumble/)
 - [Are you positive you tested positive?](https://kousenit.org/2020/05/13/are-you-positive-you-tested-positive/)
 - [Why Use Mocks?](https://kousenit.org/2020/03/03/why-use-mocks/)
-- [Antarctica Time Zones in Kotlin on GraalVM](https://kousenit.org/2020/01/04/antarctica-time-zones-in-kotlin-on-graalvm/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kousen&hide=javascript)](https://github.com/kousen/github-readme-stats)
