@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Dealing with failure, Never postpone a progress meeting, and Shameless pandering to my awesome readers](https://kenkousen.substack.com/p/tales-from-the-jar-side-dealing-with-03f)
 - [Tales from the jar side: Testcontainers Issue Resolved, Doc Hopper&#39;s offer to Kermit, Armageddon &lpar;the movie&rpar;, and other tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-testcontainers)
 - [Tales from the jar side: Audiobook available, GORM event listeners, testcontainers, and COVID hits home](https://kenkousen.substack.com/p/tales-from-the-jar-side-audiobook-023)
 - [Tales from the jar side: A Groovy Podcast about Grails and Micronaut, versioning in Mockito, and unexpectedly profound tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-groovy-dc9)
 - [Tales from the jar side: A rant on how naming things is hard &lpar;with my three least favorites&rpar; and some entertaining tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-rant-on)
-- [Tales from the jar side: Between Chair and Keyboard, a Groovy Podcast, IntelliJ stuff, TextBlocks in Hamcrest, and some Halloween jokes](https://kenkousen.substack.com/p/tales-from-the-jar-side-between-chair)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
