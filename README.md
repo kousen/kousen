@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: WireMock tests, Movies to know me, Get Back comments, and good tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-wiremock)
 - [Tales from the jar side: A Groovy Podcast, When NOT to use Mockito, Peanut butter testing, Genetic algorithms, and On the way to L2](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-groovy-ff4)
 - [Tales from the jar side: Medium post on failure, Lying on security questions, UML in IntelliJ IDEA, An Obituary to die for, and more](https://kenkousen.substack.com/p/tales-from-the-jar-side-medium-post)
 - [Tales from the jar side: Log4J vulnerability, A controversial Chess World Championship second, and Amusing tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-log4j-vulnerability)
 - [Tales from the jar side: Dealing with failure, Never postpone a progress meeting, and Shameless pandering to my awesome readers](https://kenkousen.substack.com/p/tales-from-the-jar-side-dealing-with-03f)
-- [Tales from the jar side: Testcontainers Issue Resolved, Doc Hopper&#39;s offer to Kermit, Armageddon &lpar;the movie&rpar;, and other tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-testcontainers)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
