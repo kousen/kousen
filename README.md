@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: A Groovy Podcast, OBS with chroma key, and the time Chuck Norris told me to cease and desist &lpar;really&rpar;](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-groovy-e53)
 - [Tales from the jar side: Groovy 4, Gradle, and Spock, A Grails Foundation honor, A CAP design pattern disaster, Some corrections, and Attempts to take the moral high ground](https://kenkousen.substack.com/p/tales-from-the-jar-side-groovy-4)
 - [Tales from the jar side: Cat Pictures in Groovy and Java, NFTs are evil, Big Questions, and Wholesome Memes](https://kenkousen.substack.com/p/tales-from-the-jar-side-cat-pictures)
 - [Tales from the jar side: Misleading Mockito documentation, the Java Champions conference, A creepy Zillow castle near me, Kiss A Ginger Day, and a 50s cover for the ages](https://kenkousen.substack.com/p/tales-from-the-jar-side-misleading)
 - [Tales from the jar side: JChampions Conference, a Traitorous James Bond, JWST full deployment, the best Wordle starting word, and more](https://kenkousen.substack.com/p/tales-from-the-jar-side-jchampions)
-- [Tales from the jar side: WireMock tests, Movies to know me, Get Back comments, and good tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-wiremock)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
