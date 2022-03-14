@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Mockito Answers, New books, and my Medical adventure](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-answers)
 - [Tales from the jar side: Sharing Gradle settings, Major news events this week, Pebbles&#39; birthday, and the Joy of watching Steph Curry](https://kenkousen.substack.com/p/tales-from-the-jar-side-sharing-gradle)
 - [Tales from the jar side: A Mockito custom matcher, Teaching to empty rooms, and Funny tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-mockito)
 - [Tales from the jar side: Stored procedures in Spring, The secret to happiness, and Clever tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-stored-procedures)
 - [Tales from the jar side: A Groovy Podcast, OBS with chroma key, and the time Chuck Norris told me to cease and desist &lpar;really&rpar;](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-groovy-e53)
-- [Tales from the jar side: Groovy 4, Gradle, and Spock, A Grails Foundation honor, A CAP design pattern disaster, Some corrections, and Attempts to take the moral high ground](https://kenkousen.substack.com/p/tales-from-the-jar-side-groovy-4)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
