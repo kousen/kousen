@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Game 7s, Lazy Suppliers, Good Tweets, and Yet even more Bangles content](https://kenkousen.substack.com/p/tales-from-the-jar-side-game-7s-lazy)
 - [Tales from the jar side: Spring&#39;s queryForStream method, A Marlborough, CT election and demographics, and Good Tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-springs-queryforstream)
 - [Tales from the jar side: Records, JSON, and Spring, A take on Elon Musk, My chess weekend, and Good tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-records-json)
 - [Tales from the jar side: Steph missed free throws, NFJS in Northern Virginia, and Funny tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-steph-missed)
 - [Tales from the jar side: The Devnexus conference, Twitter banter, and Random musings on old music](https://kenkousen.substack.com/p/tales-from-the-jar-side-the-devnexus)
-- [Tales from the jar side: Property-based testing the Caesar Cipher, ST:TMP out in 4K, and Good tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-property)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
