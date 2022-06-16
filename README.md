@@ -23,11 +23,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Groovy Podcast, Episode 87 &lpar;S06E02&rpar;, with Ken Kousen and Sergio del Amo Caballero](https://kousenit.org/2022/06/16/groovy-podcast-episode-87-s06e02-with-ken-kousen-and-sergio-del-amo-caballero/)
 - [Spring’s queryForStream Method](https://kousenit.org/2022/05/26/springs-queryforstream-method/)
 - [Groovy Podcast, S06E01, ep. 86, hosted by Ken Kousen and Sergio del Amo](https://kousenit.org/2022/02/02/groovy-podcast-s06e01-ep-86-hosted-by-ken-kousen-and-sergio-del-amo/)
 - [Groovy Podcast episode 85 &lpar;S05E05&rpar; with Sergio del Amo and Guillaume Laforge](https://kousenit.org/2021/12/22/groovy-podcast-episode-85-s05e05-with-sergio-del-amo-and-guillaume-laforge/)
 - [Groovy Podcast 84 &lpar;S05E04&rpar; with Sergio del Amo and Paul King](https://kousenit.org/2021/11/11/groovy-podcast-84-s05e04-with-sergio-del-amo-and-paul-king/)
-- [Groovy Podcast, S05E03, with Paul King](https://kousenit.org/2021/10/29/groovy-podcast-s05e03-with-paul-king/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kousen&hide=javascript)](https://github.com/kousen/github-readme-stats)
