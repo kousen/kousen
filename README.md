@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Gradle version catalogs, Copilot costs, Stack Overflow survey results, and Tweets about RRR, Spring Boot testing, and Earth through Saturn&#39;s rings](https://kenkousen.substack.com/p/tales-from-the-jar-side-gradle-version)
 - [Tales from the jar side: Famous birthdays, A new Groovy Podcast, a Mockito post, GitHub Copilot, and I, too, would like to be added to the pardon list &lpar;mostly for these jokes&rpar;](https://kenkousen.substack.com/p/tales-from-the-jar-side-famous-birthdays)
 - [Tales from the jar side: Mockito doing well, Helping Your Boss Help You, and Random Klein-bottle-based tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-doing)
 - [Tales from the jar side: My new Mockito book, an Optional option, and funny tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-my-new-mockito)
 - [Tales from the jar side: Top Computer Science Resumés, A new blog post, Good tweets, and a Health update](https://kenkousen.substack.com/p/tales-from-the-jar-side-top-computer)
-- [Tales from the jar side: Your weekly Steph update, Scrambling to fix a training class, Terrible maps, and a health issue](https://kenkousen.substack.com/p/tales-from-the-jar-side-your-weekly)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
