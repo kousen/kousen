@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: ÜberConf &lpar;with an umlaut&rpar;, Playing chess against kids, The best travel delay ever, and Tweets and videos about the JWST images](https://kenkousen.substack.com/p/tales-from-the-jar-side-uberconf)
 - [Tales from the jar side: My new homepage, The Internet Wayback machine, The Rest Can Wait, and amusing tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-my-new-homepage)
 - [Tales from the jar side: Calling stored procedures using Spring Data, Hyperbullet chess by a candidate, and the Supreme Court voted 6 - 3 that you must subscribe to this newsletter](https://kenkousen.substack.com/p/tales-from-the-jar-side-calling-stored)
 - [Tales from the jar side: Gradle version catalogs, Copilot costs, Stack Overflow survey results, and Tweets about RRR, Spring Boot testing, and Earth through Saturn&#39;s rings](https://kenkousen.substack.com/p/tales-from-the-jar-side-gradle-version)
 - [Tales from the jar side: Famous birthdays, A new Groovy Podcast, a Mockito post, GitHub Copilot, and I, too, would like to be added to the pardon list &lpar;mostly for these jokes&rpar;](https://kenkousen.substack.com/p/tales-from-the-jar-side-famous-birthdays)
-- [Tales from the jar side: Mockito doing well, Helping Your Boss Help You, and Random Klein-bottle-based tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-doing)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
