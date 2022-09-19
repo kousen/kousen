@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: A Local Variable Type Inference Joke, An obscene chess follow-up, the Wordle disaster, Saturn destroyed a moon, and other Tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-local-variable)
 - [Tales from the jar side: Menus in Android Fragments, Chess drama, and Other tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-menus-in)
 - [Tales from the jar side: What happened to Rowena, Being wrong but not staying wrong, and Other tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-what-happened)
 - [Tales from the jar side: Espresso and the Hamcrest Matchers, Black Hole sounds, and Viral theme songs](https://kenkousen.substack.com/p/tales-from-the-jar-side-espresso)
 - [Tales from the jar side: Kotlin decrement with modulus, Happy birthday to my car, and Notes on popular media](https://kenkousen.substack.com/p/tales-from-the-jar-side-kotlin-decrement)
-- [Tales from the jar side: Mockito updates, Goodbye Dame Olivia, and Librarians take down a President](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-updates)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
