@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: The Weasel Program, ApacheCon, A Groovy Podcast, Cheating in chess and elsewhere, and More funny tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-the-weasel)
 - [Tales from the jar side: AssertJ and exceptions, Mockito book in beta, Help Your Boss Help You audiobook, Publishing scams, More about cheating in chess and elsewhere, and NASA clobbers an asteroid](https://kenkousen.substack.com/p/tales-from-the-jar-side-assertj-and)
 - [Tales from the jar side: Java 19 is All Previews, more Chess drama, the NFJS event in Boston, Triton is Fabulous, and other tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-java-19-is)
 - [Tales from the jar side: A Local Variable Type Inference Joke, An obscene chess follow-up, the Wordle disaster, Saturn destroyed a moon, and other Tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-local-variable)
 - [Tales from the jar side: Menus in Android Fragments, Chess drama, and Other tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-menus-in)
-- [Tales from the jar side: What happened to Rowena, Being wrong but not staying wrong, and Other tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-what-happened)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
