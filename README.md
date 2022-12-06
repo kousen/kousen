@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: The Business of Training, Gradle for Android, and funny posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-the-business-bc1)
 - [Tales from the jar side: Teaching Android, New Spring Boot version, Darth Elon Strikes Again, Random music thoughts, and more](https://kenkousen.substack.com/p/tales-from-the-jar-side-teaching-8d1)
 - [Tales from the jar side: Spring features new to me, Elon Muskrat Love, and funny posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-spring-features)
 - [Tales from the jar side: Mocking constructors, Schadenfreude week, When James Bond dissed The Beatles, and Good Tweets/Toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-mocking-constructors)
 - [Tales from the jar side: My Testcontainers talk, Musk rats out Twitter, and Amusing tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-my-testcontainers)
-- [Tales from the jar side: My long career journey, Elon Does Twitter, and Halloween tweets](https://kenkousen.substack.com/p/tales-from-the-jar-side-my-long-career)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
