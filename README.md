@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Mockito Made Clear finished, Four years of Tftjs, My new YouTube channel, and Way too many Xmas jokes](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-made)
 - [Tales from the jar side: My talk with Venkat at NYJavaSIG, an online Spring webinar, More Elon idiocy, the legend of John Mastodon, and Amusing posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-my-talk-with)
 - [Tales from the jar side: Spring 6 Http interfaces, Mockito 5, Joking with ChatGPT, Upcoming talks, and a Feel Good story about Unicorns](https://kenkousen.substack.com/p/tales-from-the-jar-side-spring-6)
 - [Tales from the jar side: The Business of Training, Gradle for Android, and funny posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-the-business-bc1)
 - [Tales from the jar side: Teaching Android, New Spring Boot version, Darth Elon Strikes Again, Random music thoughts, and more](https://kenkousen.substack.com/p/tales-from-the-jar-side-teaching-8d1)
-- [Tales from the jar side: Spring features new to me, Elon Muskrat Love, and funny posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-spring-features)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
