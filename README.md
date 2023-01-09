@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: ChatGPT and GitHub Copilot are too helpful, Function composition, The rise of Mittens, Chess Bot of Death, and other amusing posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-chatgpt-and)
 - [Tales from the jar side: Beautiful seven-part close harmony, Jared Halley Music, COVID at last, and Amusing posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-beautiful)
 - [Tales from the jar side: Mockito Made Clear finished, Four years of Tftjs, My new YouTube channel, and Way too many Xmas jokes](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-made)
 - [Tales from the jar side: My talk with Venkat at NYJavaSIG, an online Spring webinar, More Elon idiocy, the legend of John Mastodon, and Amusing posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-my-talk-with)
 - [Tales from the jar side: Spring 6 Http interfaces, Mockito 5, Joking with ChatGPT, Upcoming talks, and a Feel Good story about Unicorns](https://kenkousen.substack.com/p/tales-from-the-jar-side-spring-6)
-- [Tales from the jar side: The Business of Training, Gradle for Android, and funny posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-the-business-bc1)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
