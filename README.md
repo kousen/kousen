@@ -14,11 +14,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Mockito Made Clear released, Medium posts, New video on the YouTube channel, a Chess position for the ages, and other posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-made-3df)
 - [Tales from the jar side: My multitrack acapella video, Unboxing the unboxable, Twitter behaving badly &lpar;a continuing series&rpar;, and Other tweets and toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-my-multitrack)
 - [Tales from the jar side: Mockito 5 released, PragProgWriMo, Stable Diffusion and the Uncanny Valley, Twitter is evil, part 1000+, and Other clever posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-5)
 - [Tales from the jar side: ChatGPT and GitHub Copilot are too helpful, Function composition, The rise of Mittens, Chess Bot of Death, and other amusing posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-chatgpt-and)
 - [Tales from the jar side: Beautiful seven-part close harmony, Jared Halley Music, COVID at last, and Amusing posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-beautiful)
-- [Tales from the jar side: Mockito Made Clear finished, Four years of Tftjs, My new YouTube channel, and Way too many Xmas jokes](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-made)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
