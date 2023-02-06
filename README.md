@@ -2,6 +2,7 @@
 
 ## My books
 
+- [Mockito Made Clear](https://pragprog.com/titles/mockito/mockito-made-clear/)
 - [Help Your Boss Help You](https://pragprog.com/titles/kkmanage/help-your-boss-help-you/), also on [Amazon](https://www.amazon.com/Help-Your-Boss-You-Opportunities/dp/1680508229/ref=sr_1_1)
 - [Kotlin Cookbook](https://www.amazon.com/Kotlin-Cookbook-Problem-Focused-Ken-Kousen/dp/1492046671/ref=sr_1_2?crid=19GC9U7J3BCF6&dchild=1&keywords=ken+kousen&qid=1602270598&sprefix=kousen+%2Caps%2C152&sr=8-2)
 - [Modern Java Recipes](https://www.amazon.com/Modern-Java-Recipes-Solutions-Difficult/dp/149197317X/ref=sr_1_1?crid=19GC9U7J3BCF6&dchild=1&keywords=ken+kousen&qid=1602270598&sprefix=kousen+%2Caps%2C152&sr=8-1)
@@ -34,7 +35,8 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ### Some info:
 
-- You can always find out what I'm doing from my [free newsletter](https://kenkousen.substack.com)
+- You can always find out what I'm doing from my [free newsletter](https://kenkousen.substack.com), _Tales from the jar side_
+- I also manage the [Tales from the jar side YouTube channel](https://youtube.com/@Talesfromthejarside)
 - My [blog](https://kousenit.org) contains posts from my work using Java, Groovy, Kotlin, and more
 
 <!--
