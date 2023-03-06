@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: New videos, Reactive Spring and GitHub Copilot, Resolving moral dilemmas, and Tweets and Toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-new-videos)
 - [Tales from the jar side: Setting up Mockito, Reacting to Spring, and Tweets and Toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-setting-up)
 - [Tales from the jar side: New Mockito video, CodeRanch appearance, Saving daylight at the South Pole, A blurry JPEG of the web, and Tweets and Toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-new-mockito)
 - [Tales from the jar side: No one makes the first jump, Java LTS versions, The temptations of curmudgeon mode, a new Mockito video, and Tweets and Toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-no-one-makes)
 - [Tales from the jar side: Amazon rejected my video, Groovy Vampires, a Groundhog Day joke, Mockito Made Clear is doing well, and Spying weather balloons](https://kenkousen.substack.com/p/tales-from-the-jar-side-amazon-rejected)
-- [Tales from the jar side: Mockito Made Clear released, Medium posts, New video on the YouTube channel, a Chess position for the ages, and other posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-made-3df)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
