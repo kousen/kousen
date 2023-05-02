@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Video version of &quot;Tales from the jar side&quot; now available](https://kenkousen.substack.com/p/video-version-of-tales-from-the-jar)
 - [Tales from the jar side: GIDS conference, Just call us KenKat, The Ding Of Power, Coffee with Josh Long, and the usual silly Tweets and toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-gids-conference)
 - [Tales from the jar side: Mockito article and videos, Travel to GIDS, Substack Notes revisited, Chess update, and Great Moments in Rapid Unscheduled Disassemblies](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-article)
 - [This week&#39;s Tales from the jar side will be early](https://kenkousen.substack.com/p/this-weeks-tales-from-the-jar-side)
 - [Tales from the jar side: Mockito Answers, Android, Kotlin, and Gradle Oh My, The Notes disaster, A new &lpar;part time&rpar; job, and Tweets and Toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-answers-2d6)
-- [Tales from the jar side: Delayed validation in Mockito, DevNexus, World chess championship &lpar;sort of&rpar;, Elon throws another tantrum, and Tweets and Toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-delayed-validation)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
