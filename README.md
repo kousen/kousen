@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Spring Boot 3.1 released, Using Java preview features in Eclipse, Josh Long&#39;s bootiful [sic] podcast, a Tesla bumper sticker, and the usual Tweets and toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-spring-boot)
 - [Tales from the jar side: AI and Canva create YouTube Shorts, Big sale on my book, The awesome MacWhisper, Fixing my Substack notifications, Questionable uses of AI, and Tweets and Toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-ai-and-canva)
 - [Tales from the jar side: Mockito saved me work, Java ecosystem survey and I/O idioms, Medium doesn&#39;t pay much &lpar;shocking&rpar;, and Bring me the head of Erwin Schrödinger in Tweets and Toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-saved)
 - [Video version of &quot;Tales from the jar side&quot; now available](https://kenkousen.substack.com/p/video-version-of-tales-from-the-jar)
 - [Tales from the jar side: GIDS conference, Just call us KenKat, The Ding Of Power, Coffee with Josh Long, and the usual silly Tweets and toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-gids-conference)
-- [Tales from the jar side: Mockito article and videos, Travel to GIDS, Substack Notes revisited, Chess update, and Great Moments in Rapid Unscheduled Disassemblies](https://kenkousen.substack.com/p/tales-from-the-jar-side-mockito-article)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
