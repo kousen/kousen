@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Live Stream with Baruch Sadogursky, AI Tools for Java Developers, I am become Barbie, Destroyer of Worlds, and more Tweets / Toots / Skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-live-stream)
 - [Tales from the jar side: Archives in Gradle &lpar;featuring Groovy vs Kotlin&rpar;, AI Experiments, and More Tweets / Toots / Skeets / Whatever they are on Threads](https://kenkousen.substack.com/p/tales-from-the-jar-side-archives)
 - [Tales from the jar side: JCrete unconference, YouTube videos, Social Media Wars, Passive aggression in song lyrics, and Tweets / Toots / Skeets / Whatever they&#39;re called on Threads](https://kenkousen.substack.com/p/tales-from-the-jar-side-jcrete-unconference)
 - [Tales from the jar side: Adventures in AI with Java text blocks, Elon musks it up again, YouTube activities, and the usual tweets and toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-adventures)
 - [Tales from the jar side: A CSI YouTube video, a few Shorts, My objections to evaluating training class students, My new Tesla bumper sticker, a Poll about my new logo, and the usual Tweets and Toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-csi-youtube)
-- [Tales from the jar side: Functional Interfaces in JUnit, Beauty from AssertJ, A live stream with Nate Schutta, some AI tools and coding, HTTP interfaces in Spring, and the usual Tweets and Toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-functional)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
