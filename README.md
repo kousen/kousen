@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: JVM Weekly is great, AI tools for Java devs, Spring office hours, and the usual assortment of toots and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-jvm-weekly)
 - [Tales from the jar side: Live Stream with Venkat, Assumptions in Spring Boot apps, Medium Day talks, AI tools from Java code, and the usual silly Toots and Skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-live-stream-6c4)
 - [Tales from the jar side: JUnit assumptions video, Upcoming Live Stream with Venkat, Medium Day, Subspace Rhapsody, and Toots and Skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-junit-assumptions-9b0)
 - [Tales from the jar side: JUnit Assumptions, Barbenheimer, Elon hits bottom and starts digging, Tesla lies, and more Toots and Skeets and other posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-junit-assumptions)
 - [Tales from the jar side: Live Stream with Baruch Sadogursky, AI Tools for Java Developers, I am become Barbie, Destroyer of Worlds, and more Tweets / Toots / Skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-live-stream)
-- [Tales from the jar side: Archives in Gradle &lpar;featuring Groovy vs Kotlin&rpar;, AI Experiments, and More Tweets / Toots / Skeets / Whatever they are on Threads](https://kenkousen.substack.com/p/tales-from-the-jar-side-archives)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
