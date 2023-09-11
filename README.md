@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Generating robot images with Java, Useful Spring videos, Craig Ferguson is funny, Google is evil, Elon is awful, and the usual toots and skeets are what they are](https://kenkousen.substack.com/p/tales-from-the-jar-side-generating)
 - [Tales from the jar side: Magic man almost gets arrested, Connecting Java to DALL-E, Other AI projects, and the usual silly toots and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-magic-man)
 - [Tales from the jar side: Welcome newcomers, Connecting ChatGPT to Java, Groovy birthday, and the usual silly toots and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-welcome-newcomers)
 - [Tales from the jar side: JVM Weekly is great, AI tools for Java devs, Spring office hours, and the usual assortment of toots and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-jvm-weekly)
 - [Tales from the jar side: Live Stream with Venkat, Assumptions in Spring Boot apps, Medium Day talks, AI tools from Java code, and the usual silly Toots and Skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-live-stream-6c4)
-- [Tales from the jar side: JUnit assumptions video, Upcoming Live Stream with Venkat, Medium Day, Subspace Rhapsody, and Toots and Skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-junit-assumptions-9b0)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
