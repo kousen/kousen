@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: DALL-E 3 jumping robots, Misleading titles, an NFJS event, Gradle providers, My blog is back, and the usual toots and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-dall-e-3)
 - [Tales from the jar side: Spring with AI: Chat with GPT, Moving to foojay.social, LinkedIn spam, AssertJ in Polish, and my inevitable commentary on Travis Kelce / Taylor Swift](https://kenkousen.substack.com/p/tales-from-the-jar-side-spring-with)
 - [Tales from the jar side: Translations to Hindi, Spring and AI without Spring AI, Java 21 features, Today&#39;s students are SO young, and the usual silly tweets and toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-translations)
 - [Tales from the jar side: Live Stream with Craig Walls, Java and Whisper AI, Java 21 released, More theme songs, and the usual silly toots and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-live-stream-c1b)
 - [Tales from the jar side: We might have a theme song, Image generation using SDXL, Spring AI and embeddings, and the usual silly toots and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-we-might)
-- [Tales from the jar side: Generating robot images with Java, Useful Spring videos, Craig Ferguson is funny, Google is evil, Elon is awful, and the usual toots and skeets are what they are](https://kenkousen.substack.com/p/tales-from-the-jar-side-generating)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
