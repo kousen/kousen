@@ -24,11 +24,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Spring HTTP Exchange Interfaces to access REST services](https://kousenit.org/2023/10/17/using-spring-http-exchange-interfaces-to-access-rest-services/)
 - [Spring with ChatGPT](https://kousenit.org/2023/10/13/spring-with-chatgpt/)
 - [Groovy Podcast Ep. 89 &lpar;S07E01&rpar;](https://kousenit.org/2023/03/29/groovy-podcast-ep-89-s07e01/)
 - [Groovy Podcast, Episode 88 &lpar;S06E03&rpar;](https://kousenit.org/2022/10/09/groovy-podcast-episode-88-s06e03/)
 - [Groovy Podcast, Episode 87 &lpar;S06E02&rpar;, with Ken Kousen and Sergio del Amo Caballero](https://kousenit.org/2022/06/16/groovy-podcast-episode-87-s06e02-with-ken-kousen-and-sergio-del-amo-caballero/)
-- [Spring’s queryForStream Method](https://kousenit.org/2022/05/26/springs-queryforstream-method/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kousen&hide=javascript)](https://github.com/kousen/github-readme-stats)
