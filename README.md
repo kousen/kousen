@@ -24,11 +24,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Magic of AI Services with LangChain4J](https://kousenit.org/2023/11/06/the-magic-of-ai-services-with-langchain4j/)
 - [Tftjs Newsletter Video for Oct 30, 2023](https://kousenit.org/2023/10/31/tftjs-newsletter-video-for-oct-30-2023/)
 - [Tftjs Newsletter Video for Oct 23, 2023](https://kousenit.org/2023/10/23/tftjs-newsletter-video-for-oct-23-2023/)
 - [OpenAI and Java: Transcribe and Analyze Meeting Minutes](https://kousenit.org/2023/10/21/openai-and-java-transcribe-and-analyze-meeting-minutes/)
 - [Using Spring HTTP Exchange Interfaces to access REST services](https://kousenit.org/2023/10/17/using-spring-http-exchange-interfaces-to-access-rest-services/)
-- [Spring with ChatGPT](https://kousenit.org/2023/10/13/spring-with-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kousen&hide=javascript)](https://github.com/kousen/github-readme-stats)
