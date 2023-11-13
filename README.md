@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: AI Assistants, Sometimes traveling works out, Elon Groks, and the usual tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-ai-assistants)
 - [Tales from the jar side: LangChain4J services, Stochastic parrot images, Now and Then, Managing Your Manager talks, and the usual tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-langchain4j)
 - [Tales from the jar side: Fighting Gradle, the Dark Knight of the Antarctic, Groovy Dad Jokes, and the usual silly tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-fighting)
 - [Tales from the jar side: Meeting Minutes and ChatGPT, coding with Apache POI, the awesomeness of Buckaroo Banzai, how to pronounce ChatGPT, and the usual social media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-meeting-minutes)
 - [Tales from the jar side: DALL-E 3 jumping robots, Misleading titles, an NFJS event, Gradle providers, My blog is back, and the usual toots and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-dall-e-3)
-- [Tales from the jar side: Spring with AI: Chat with GPT, Moving to foojay.social, LinkedIn spam, AssertJ in Polish, and my inevitable commentary on Travis Kelce / Taylor Swift](https://kenkousen.substack.com/p/tales-from-the-jar-side-spring-with)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
