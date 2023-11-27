@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: When custom GPTs won&#39;t behave, Spring Boot 3.2 abandons half the Java market, Q* and OpenAI, and the usual silly tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-when-custom)
 - [Tales from the jar side: My friend Albert Tam, MIT wants cash but I have better alternatives, OpenAI chaos, and the usual tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-my-friend)
 - [Tales from the jar side: AI Assistants, Sometimes traveling works out, Elon Groks, and the usual tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-ai-assistants)
 - [Tales from the jar side: LangChain4J services, Stochastic parrot images, Now and Then, Managing Your Manager talks, and the usual tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-langchain4j)
 - [Tales from the jar side: Fighting Gradle, the Dark Knight of the Antarctic, Groovy Dad Jokes, and the usual silly tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-fighting)
-- [Tales from the jar side: Meeting Minutes and ChatGPT, coding with Apache POI, the awesomeness of Buckaroo Banzai, how to pronounce ChatGPT, and the usual social media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-meeting-minutes)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
