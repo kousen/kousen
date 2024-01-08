@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Running LLMs locally, Spring Text-to-Speech and Spring AI, the AI Word Of The Year, and the usual silly tweets and toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-running-llms)
 - [Tales from the jar side: Java Audio using OpenAI, 1K vs 1 thousand, Pop-Tarts Bowl memes, and the usual silly tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-java-audio)
 - [Tales from the jar side: Off-by-one errors and 5 years of Tftjs, 1 year and 1000 subs on YT, Substack issues, and a Holiday edition of tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-off-by-one)
 - [Tales from the jar side: The Gemini rigged demo, the Gemini Java API &lpar;sort of&rpar;, Java jokes, The kids are all right, and the usual assortment of tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-the-gemini)
 - [Tales from the jar side: Claude in the Spring, Plagiarism on YouTube, Upcoming milestone, and the usual silly tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-claude-in)
-- [Tales from the jar side: Google Bard is stupid, Claude AI is not &lpar;but can&#39;t do math&rpar;, and the usual silly tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-google-bard)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
