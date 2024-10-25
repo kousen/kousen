@@ -24,11 +24,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity AI API: Real-Time Search and AI Summation](https://kousenit.org/2024/10/25/perplexity-ai-api-real-time-search-and-ai-summation/)
 - [Creating an AI-Generated Opera with LangChain4j](https://kousenit.org/2024/09/21/creating-an-ai-generated-opera-with-langchain4j/)
 - [Conversations with LangChain4j](https://kousenit.org/2024/09/05/conversations-with-langchain4j/)
 - [A Really Easy Way to Add AI to Java](https://kousenit.org/2023/12/10/a-really-easy-way-to-add-ai-to-java/)
 - [When custom GPT’s don’t cooperate](https://kousenit.org/2023/11/25/when-custom-gpts-dont-cooperate/)
-- [The Magic of AI Services with LangChain4J](https://kousenit.org/2023/11/06/the-magic-of-ai-services-with-langchain4j/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kousen&hide=javascript)](https://github.com/kousen/github-readme-stats)
