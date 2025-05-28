@@ -24,11 +24,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sure, I’ll sign your ebook](https://kousenit.org/2025/05/28/sure-ill-sign-your-ebook/)
 - [Waiting for Spring AI Streaming Responses in JUnit Tests](https://kousenit.org/2025/05/27/waiting-for-spring-ai-streaming-responses-in-junit-tests/)
 - [AI vs Cthulhu: How to Bypass Guardrails](https://kousenit.org/2024/10/29/ai-vs-cthulhu-how-to-bypass-guardrails/)
 - [Perplexity AI API: Real-Time Search and AI Summation](https://kousenit.org/2024/10/25/perplexity-ai-api-real-time-search-and-ai-summation/)
 - [Creating an AI-Generated Opera with LangChain4j](https://kousenit.org/2024/09/21/creating-an-ai-generated-opera-with-langchain4j/)
-- [Conversations with LangChain4j](https://kousenit.org/2024/09/05/conversations-with-langchain4j/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kousen&hide=javascript)](https://github.com/kousen/github-readme-stats)
