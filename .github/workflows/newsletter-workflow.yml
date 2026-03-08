@@ -1,24 +1,16 @@
 name: Latest newsletters workflow
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch:
 jobs:
-  fetch-rss:
+  update-readme-with-newsletters:
+    name: Update this repo's README with latest newsletters
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-
-    - name: Fetch RSS Feed
-      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
-      with:
-        feed_url: 'https://kenkousen.substack.com/feed'
-        file_path: './feed.json'
-
-    - name: Commit and push changes to repository
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: 'Update RSS feed'
-        file_pattern: '*.json'
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://kenkousen.substack.com/feed"
+          readme_path: README.md
+          comment_tag_name: NEWSLETTERS
