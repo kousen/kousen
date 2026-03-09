@@ -8,9 +8,54 @@ jobs:
     name: Update this repo's README with latest newsletters
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://kenkousen.substack.com/feed"
-          readme_path: README.md
-          comment_tag_name: NEWSLETTERS
+      - uses: actions/checkout@v4
+
+      - name: Fetch newsletters and update README
+        run: |
+          python3 << 'EOF'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          import re
+
+          url = "https://kenkousen.substack.com/feed"
+          req = urllib.request.Request(
+              url,
+              headers={"User-Agent": "Mozilla/5.0 (compatible; GitHub Actions newsletter updater)"}
+          )
+          with urllib.request.urlopen(req, timeout=30) as response:
+              feed_content = response.read()
+
+          root = ET.fromstring(feed_content)
+          items = root.findall('.//item')
+
+          entries = []
+          for item in items[:5]:
+              title = item.find('title').text.strip()
+              link = item.find('link').text.strip()
+              entries.append(f"- [{title}]({link})")
+
+          new_block = "<!-- NEWSLETTERS:START -->\n" + "\n".join(entries) + "\n<!-- NEWSLETTERS:END -->"
+
+          with open("README.md", "r") as f:
+              content = f.read()
+
+          updated = re.sub(
+              r"<!-- NEWSLETTERS:START -->.*?<!-- NEWSLETTERS:END -->",
+              new_block,
+              content,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w") as f:
+              f.write(updated)
+
+          print("README updated successfully.")
+          for e in entries:
+              print(e)
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "newsletter-bot"
+          git config user.email "newsletter-bot@example.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "Updated with the latest newsletters" && git push)
