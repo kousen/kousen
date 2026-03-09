@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
-- [Tales from the jar side: Creating audio from text with Spring, New video tools, Help me earn a tenth of cent from my custom GPT, and the usual silly tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-creating)
-- [Tales from the jar side: Running LLMs locally, Spring Text-to-Speech and Spring AI, the AI Word Of The Year, and the usual silly tweets and toots](https://kenkousen.substack.com/p/tales-from-the-jar-side-running-llms)
-- [Tales from the jar side: Java Audio using OpenAI, 1K vs 1 thousand, Pop-Tarts Bowl memes, and the usual silly tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-java-audio)
-- [Tales from the jar side: Off-by-one errors and 5 years of Tftjs, 1 year and 1000 subs on YT, Substack issues, and a Holiday edition of tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-off-by-one)
-- [Tales from the jar side: The Gemini rigged demo, the Gemini Java API &lpar;sort of&rpar;, Java jokes, The kids are all right, and the usual assortment of tweets, toots, and skeets](https://kenkousen.substack.com/p/tales-from-the-jar-side-the-gemini)
+- [Tales from the jar side: DevNexus adventures, Delta chaos, Fun with OpenClaw, and the usual smattering of social media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-devnexus-fb4)
+- [Tales from the jar side: A Nano Banana Skill, UI Testing made simple, Anthropic vs Pentagon, Anthropic vs China, DevNexus, and the usual Social Media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-nano-banana)
+- [Tales from the jar side: My Trek/Java video, Gemini 3.1 lags, More OpenClaw drama, DevNexus, and the usual social media stuff](https://kenkousen.substack.com/p/tales-from-the-jar-side-my-trekjava)
+- [Tales from the jar side: RAG video, My clawdbot's wins and losses, the SaaSpocalype, and the usual social media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-rag-video)
+- [Tales from the jar side: Moltbook implodes, OpenClaw is okay, a RAG demo, My dad's favorite player passes away, my SB pick, and the usual social media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-moltbook)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
