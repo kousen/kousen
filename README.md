@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
-- [Tales from the jar side: DevNexus adventures, Delta chaos, Fun with OpenClaw, and the usual smattering of social media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-devnexus-fb4)
-- [Tales from the jar side: A Nano Banana Skill, UI Testing made simple, Anthropic vs Pentagon, Anthropic vs China, DevNexus, and the usual Social Media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-nano-banana)
-- [Tales from the jar side: My Trek/Java video, Gemini 3.1 lags, More OpenClaw drama, DevNexus, and the usual social media stuff](https://kenkousen.substack.com/p/tales-from-the-jar-side-my-trekjava)
-- [Tales from the jar side: RAG video, My clawdbot's wins and losses, the SaaSpocalype, and the usual social media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-rag-video)
-- [Tales from the jar side: Moltbook implodes, OpenClaw is okay, a RAG demo, My dad's favorite player passes away, my SB pick, and the usual social media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-moltbook)
+- [Tales from the jar side: Yet another cute animal, Anthropic's blizzard of releases, Gemini failure, Chess Mates, and the usual social posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-yet-another)
+- [Tales from the jar side: Making Java Groovy, Footnote humor, the Iceberg Index, and the usual Social Media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-making-java-a89)
+- [Tales from the jar side: Another cute animal, MockHub and OAuth, Gemma 4, Lyria 3, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-another-cute-eda)
+- [Tales from the jar side: Otter reading Kotlin, MockHub and Agentic Commerce, Developing with AI, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-otter-reading)
+- [Tales from the jar side: Another cute animal, Simon Willison on AI coding, my MockHub app, my Chuck Norris story, and social media stuff](https://kenkousen.substack.com/p/tales-from-the-jar-side-another-cute)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
