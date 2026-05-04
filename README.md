@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Web Clipper's Reader Mode, Senior Project Presentations, and the usual Social Media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-web-clippers)
 - [Tales from the jar side: GPT Image 2, Open Brain, Anthropic Blunders, Meta is Evil, and the usual Social Media Posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-gpt-image)
 - [Tales from the jar side: Yet another cute animal, Anthropic's blizzard of releases, Gemini failure, Chess Mates, and the usual social posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-yet-another)
 - [Tales from the jar side: Making Java Groovy, Footnote humor, the Iceberg Index, and the usual Social Media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-making-java-a89)
 - [Tales from the jar side: Another cute animal, MockHub and OAuth, Gemma 4, Lyria 3, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-another-cute-eda)
-- [Tales from the jar side: Otter reading Kotlin, MockHub and Agentic Commerce, Developing with AI, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-otter-reading)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
