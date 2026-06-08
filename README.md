@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Website redesign, Graphify, Gemma4, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-website-redesign)
 - [Tales from the jar side: jqwik Prompt Injection attack, Opus 4.8, Pangram AI detection, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-jqwik-prompt)
 - [Tales from the jar side: Decline of social media, Grok burns down the town, Skills + sub-agents, Subsidized AI, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-decline-of)
 - [Tales from the jar side: Commencement, Claude Hooks and my Pixoo64, Anthropic confuses everybody, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-commencement)
 - [Tales from the jar side: Mythos, Anthropic makes a deal, Musk v Sam, and the usual Social Media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-mythos-anthropic)
-- [Tales from the jar side: Web Clipper's Reader Mode, Senior Project Presentations, and the usual Social Media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-web-clippers)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
