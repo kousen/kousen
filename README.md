@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Bad scheduling, OpenRouter, Not Going There, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-bad-scheduling)
 - [Tales from the jar side: Claude Code: Up and Running, GPT 5.6 available (but not for you), OpenRouter in Spring AI and Claude Code, and the usual silly Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-claude-code-b4e)
 - [Tales from the jar side: Just Fix It, Ponytail, Mole, ScrapeCreators, SentrySearch, and the usual silly Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-just-fix)
 - [Tales from the jar side: Anthropic tells a Fable and the Gov't stops it; The last30days and here.now Skills, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-anthropic)
 - [Tales from the jar side: Website redesign, Graphify, Gemma4, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-website-redesign)
-- [Tales from the jar side: jqwik Prompt Injection attack, Opus 4.8, Pangram AI detection, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-jqwik-prompt)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
