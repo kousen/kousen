@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Imagination Library and Dolly, Run Claude Code with any model, Vote for Marlborough, and the usual social media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-imagination)
 - [Tales from the jar side: A Transporter Accident Scale, My Star Trek parody, Agentic commerce, and the usual social media nonsense](https://kenkousen.substack.com/p/tales-from-the-jar-side-a-transporter)
 - [Tales from the jar side: Cruise pics, Anthropic watermarks, Westbrook retires, and the usual Social media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-cruise-pics)
 - [Tales from the jar side: Color cover, Vacation pics, AI break out, and the usual Social media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-color-cover)
 - [Tales from the jar side: Bonjour from France, Practical AI Literacy, Agentic Commerce, and the usual Social Media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-bonjour-from)
-- [Tales from the jar side: Marco Polo sheep, Cheating on exams, the Bozometer, scrcpy FTW, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-marco-polo)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
