@@ -15,11 +15,11 @@ My one-person company is [Kousen IT, Inc.](http://www.kousenit.com). I say "Kous
 
 ## Recent newsletters
 <!-- NEWSLETTERS:START -->
+- [Tales from the jar side: Community Over Code, A Groovy Podcast, Edinburgh castle, Gemini 4 called Argon, and the usual Social Media Stuff](https://kenkousen.substack.com/p/tales-from-the-jar-side-community)
 - [Tales from the jar side: Glasgow conference, Jev = $$?, Book is done, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-glasgow-conference)
 - [Tales from the jar side: The bitter lesson, A chess tournament, Community over Code, New AI stuff, and the usual Social Media posts](https://kenkousen.substack.com/p/tales-from-the-jar-side-the-bitter)
 - [Tales from the jar side: New video about Claude Code with any model, Some stats about my job, and the usual Social Media gags](https://kenkousen.substack.com/p/tales-from-the-jar-side-new-video)
 - [Tales from the jar side: My Claude Code book, Stranger New Worlds, Jev and other AI stuff, and the usual Social Media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-my-claude)
-- [Tales from the jar side: Star Trek week, OpenAI and the Millennium prize, AI Slop license, and the usual social media silliness](https://kenkousen.substack.com/p/tales-from-the-jar-side-star-trek-f07)
 <!-- NEWSLETTERS:END -->
 
 ## Recent blog posts
